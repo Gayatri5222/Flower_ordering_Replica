@@ -1,0 +1,22 @@
+{
+    "121": {
+        "Name": "Chameli",
+        "Price": 50,
+        "Stock": "10"
+    },
+    "72": {
+        "Name": "Lily",
+        "Price": 150,
+        "Stock": "20"
+    },
+    "764": {
+        "Name": "Mogra",
+        "Price": 200,
+        "Stock": "6"
+    },
+    "508": {
+        "Name": "Pan",
+        "Price": 250,
+        "Stock": "10"
+    }
+}

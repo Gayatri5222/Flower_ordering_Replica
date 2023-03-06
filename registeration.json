@@ -1,0 +1,16 @@
+{
+    "Gayatri@gmail.com": {
+        "Name": "Gayatri",
+        "Phone_no": 1234,
+        "Address": "Mah",
+        "Email": "Gayatri@gmail.com",
+        "Password": "123"
+    },
+    "Gauri@gmail.com": {
+        "Name": "Gauri",
+        "Phone_no": 987,
+        "Address": "Mp",
+        "Email": "Gauri@gmail.com",
+        "Password": "159"
+    }
+}
